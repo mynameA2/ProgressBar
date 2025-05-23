@@ -68,8 +68,7 @@ npm run build
 
 1. **Клонируйте репозиторий:**
    ```
-   git clone https://github.com/ВАШ_ГИТ_ЮЗЕРНЕЙМ/ВАШ_РЕПО.git
-   cd ВАШ_РЕПО
+   git clone https://github.com/https://github.com/mynameA2/ProgressBar.git
    ```
 
 2. **Установите зависимости:**
